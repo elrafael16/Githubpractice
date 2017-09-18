@@ -12,6 +12,7 @@
 		CEEA87A71F6FE15D007F1461 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEEA87A51F6FE15D007F1461 /* Main.storyboard */; };
 		CEEA87A91F6FE15D007F1461 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEEA87A81F6FE15D007F1461 /* Assets.xcassets */; };
 		CEEA87AC1F6FE15D007F1461 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEEA87AA1F6FE15D007F1461 /* LaunchScreen.storyboard */; };
+		CEEA87B41F6FF8BC007F1461 /* MapControllerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEA87B31F6FF8BC007F1461 /* MapControllerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CEEA87A81F6FE15D007F1461 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEEA87AB1F6FE15D007F1461 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEEA87AD1F6FE15D007F1461 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEEA87B31F6FF8BC007F1461 /* MapControllerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapControllerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				CEEA87A81F6FE15D007F1461 /* Assets.xcassets */,
 				CEEA87AA1F6FE15D007F1461 /* LaunchScreen.storyboard */,
 				CEEA87AD1F6FE15D007F1461 /* Info.plist */,
+				CEEA87B31F6FF8BC007F1461 /* MapControllerViewController.swift */,
 			);
 			path = GithubXcodePractice;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				CEEA87A41F6FE15D007F1461 /* ViewController.swift in Sources */,
 				CEEA87A21F6FE15D007F1461 /* AppDelegate.swift in Sources */,
+				CEEA87B41F6FF8BC007F1461 /* MapControllerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
